@@ -254,4 +254,4 @@ async def help_command(ctx):
     await ctx.send(help_text)
 
 # Replace 'YOUR_BOT_TOKEN' with your bot's token
-bot.run('')
+bot.run('MTM0Mzk2NjU5MDgxMDQ1NjE3NA.G8wlcG.YRHUh-DMISG-J2yjWCnYZLL6hhKSa1rQUjR7Rw')
